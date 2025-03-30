@@ -1,0 +1,28 @@
+{
+  "1350704822239756370": {
+    "welcomeChannel": "1350704822239756373",
+    "welcomeMessage": "Welcome to the Buckingham Palace Roblox server! Please verify your Roblox account using the /verify command.",
+    "ticketChannel": "1350704822239756373",
+    "visitorRole": "Visitor",
+    "robloxGroup": {
+      "groupId": 11925205,
+      "enabled": true,
+      "roleMapping": {}
+    },
+    "applications": {
+      "HR": true,
+      "hey": true
+    }
+  },
+  "1343402906950569994": {
+    "welcomeChannel": null,
+    "welcomeMessage": "Welcome to the Buckingham Palace Roblox server! Please verify your Roblox account using the /verify command.",
+    "ticketChannel": null,
+    "visitorRole": "Visitor",
+    "robloxGroup": {
+      "groupId": null,
+      "enabled": false,
+      "roleMapping": {}
+    }
+  }
+}

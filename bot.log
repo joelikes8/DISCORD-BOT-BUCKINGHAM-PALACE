@@ -1,0 +1,35 @@
+Warning: No Roblox warning detected in provided cookie. Ensure you include the entire .ROBLOSECURITY warning.
+Server is ready on port 8080
+Replit URL: https://7153cd9e-3213-427c-ac8b-634b724addf3-00-wberfhgpvpnz.picard.replit.dev
+Auto-ping enabled. Bot will stay alive by self-pinging.
+Bot monitoring enabled. Bot will be restarted automatically if it goes offline.
+[DEPRECATED]: getCurrentUser() is deprecated by Roblox; use getAuthenticatedUser(), getPremium(), getThumbnails(), or getUserFunds() instead!
+ > Opt out of these warnings using noblox.setOptions({ show_deprecation_warnings: false })
+Logged into Roblox as: RankerCBA (8234573308)
+Error initializing database: error: Console request failed: endpoint is disabled
+    at /home/runner/workspace/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async initDatabase (/home/runner/workspace/utils/database.js:53:28) {
+  length: 65,
+  severity: 'ERROR',
+  code: 'XX000',
+  detail: undefined,
+  hint: undefined,
+  position: undefined,
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: undefined,
+  line: undefined,
+  routine: undefined
+}
+Falling back to file-based storage system
+Shard is ready
+Ready! Logged in as Buckingham Palace#9549
+Ready! Logged in as Buckingham Palace#9549
+Database initialized!
